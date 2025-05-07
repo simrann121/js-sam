@@ -1,3 +1,4 @@
-
-let farhan = 123
-console.log(`"Hello this is farhan ${farhan} i am running this file "`);
+const rollno=223;
+let name="simran";
+var address="kalachowki";
+console.table([rollno,name,address]);
